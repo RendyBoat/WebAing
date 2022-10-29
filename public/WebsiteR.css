@@ -1,0 +1,94 @@
+body {
+	background: linear-gradient(179.4deg, rgb(12, 20, 69) -16.9%, rgb(71, 30, 84) 119.9%);
+}
+h1 {
+	font-family: Rockwell;
+	text-align: center;
+	color: #ffffff;
+	text-shadow: 3px 3px black;
+}
+button.bt1 {
+	background-color: #ffffff;
+	color: red;
+	font-family: Rockwell;
+	font-size: 10px;
+	padding: 5px 25px;
+	cursor: pointer;
+}
+img.fotohome {
+	weight:230px;
+	width: 230px;
+	border-radius: 50%;
+}
+marquee {
+	font-size: 20;
+	color: #ffffff;
+	text-shadow: 5px 5px black;
+}
+img.profile {
+	weight:300px;
+	width: 300px;
+	border-radius: 20%;
+}
+tr {
+	font-family: Courier New;
+	size: 3;
+	text-align: left;
+	color: #ffffff;
+	padding: 10px 35px;
+}
+p.kopi {
+	color: #ffffff;
+}
+h3 {
+	color: #ffffff;
+	font-family: Courier New;
+}
+button.kontak1 {
+	background-color: #B1AFA8;
+	font-family: Rockwell;
+	font-size: 10px;
+	color: #000000;
+	padding: 5px 20px;
+}
+img.fotogame {
+	weight:230px;
+	width: 230px;
+	border-radius: 20%;
+}
+legend {
+	color: #ffffff ;
+	font-family: Courier New;
+	text-align: center;
+}
+h2 {
+	color: #ffffff;
+	font-family: Courier New;
+}
+form.formup {
+	    margin: 50px auto;
+        width: 400px;
+        padding: 10px;
+}
+button.reset {
+		font-family: Rockwell;
+		margin: 5px auto;
+        float: left;
+        padding: 5px;
+        width: 90px;
+        border: 1px solid #fff;
+        color: #ffffff;
+        background: green;
+        cursor: pointer;
+}
+button.send {
+		font-family: Rockwell;
+	    margin: 5px auto;
+        float: right;
+        padding: 5px;
+        width: 90px;
+        border: 1px solid #fff;
+        color: #ffffff;
+        background: red;
+        cursor: pointer;
+}
